@@ -1,0 +1,5 @@
+model,outcome,variable,coefficient,standard_error,p_value,statistically_significant,r_squared,n_observations
+Model 1A — Year FE attacks model,Log terrorist attacks,log_military_spending_lag1,0.10428456701842523,0.020803208326046582,5.361356718123534e-07,True,0.26120091205661955,1382
+Model 1B — Year FE deaths model,Log terrorism deaths,log_military_spending_lag1,0.1196056501175255,0.02686556170166777,8.507166697208942e-06,True,0.34070275281463247,1382
+Model 2A — Country and Year FE attacks model,Log terrorist attacks,log_military_spending_lag1,-0.002553994244197803,0.02650579470862147,0.9232377797670828,False,0.7812929557573017,1382
+Model 2B — Country and Year FE deaths model,Log terrorism deaths,log_military_spending_lag1,-0.03013005074749462,0.04508478533664793,0.5039436887586558,False,0.7507360438756283,1382
