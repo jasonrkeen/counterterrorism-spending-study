@@ -14,5 +14,9 @@ data/processed/
 # OS/editor files
 .DS_Store
 Thumbs.db
-.vscode/*.py[cod]
+.vscode/
+*.py[cod]
 .ipynb_checkpoints/
+
+# GTD raw dataset (download separately; do not commit)
+data/raw/*.xlsx

@@ -141,7 +141,7 @@ The pipeline creates:
 
 ## Notes on Data Access
 
-The Global Terrorism Database file is not included in this repository. Users should download the GTD dataset separately and place it in the `data/raw/` folder as `globalterrorismdb.xlsx`.
+The Global Terrorism Database file is not included in this repository. Users should download the GTD dataset themselves from the START Global Terrorism Database (https://www.start.umd.edu/gtd/), subject to its terms of use, and place it in the `data/raw/` folder as `globalterrorismdb.xlsx`.
 
 Processed datasets are also excluded from version control to keep the repository lightweight and reproducible.
 
