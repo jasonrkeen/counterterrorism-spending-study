@@ -157,4 +157,4 @@ Processed datasets are also excluded from version control to keep the repository
 ## Author
 
 Jason Keen  
-keenjasonr@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jason-keen-1887b4218)
